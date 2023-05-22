@@ -20,7 +20,7 @@ Have basic knowledge :
 - Student at the University of Strasbourg - Master's degree in Data Science 
 
 ![Univ](https://www.prepa-laurea.com/wp-content/uploads/2023/03/Logo-Universite-de-Strasbourg.png)
-- Intern at Credit Agricole Alsace-Vosges: ![CA](https://upload.wikimedia.org/wikipedia/fr/thumb/a/a6/Cr%C3%A9dit_Agricole.svg/50px-Cr%C3%A9dit_Agricole.svg.png)
+- Intern Data Scientist Junior at Credit Agricole Alsace-Vosges: ![CA](https://upload.wikimedia.org/wikipedia/fr/thumb/a/a6/Cr%C3%A9dit_Agricole.svg/50px-Cr%C3%A9dit_Agricole.svg.png)
 
 ## Contact
 
