@@ -17,7 +17,8 @@ Have basic knowledge :
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
 ## Studies & Jobs
-- Student at the University of Strasbourg: Master's degree in Data Science ![Univ](https://www.prepa-laurea.com/wp-content/uploads/2023/03/Logo-Universite-de-Strasbourg.png)
+- Student at the University of Strasbourg - Master's degree in Data Science 
+![Univ](https://www.prepa-laurea.com/wp-content/uploads/2023/03/Logo-Universite-de-Strasbourg.png)
 - Intern at Credit Agricole Alsace-Vosges: ![CA](https://upload.wikimedia.org/wikipedia/fr/thumb/a/a6/Cr%C3%A9dit_Agricole.svg/50px-Cr%C3%A9dit_Agricole.svg.png)
 
 ## Contact
