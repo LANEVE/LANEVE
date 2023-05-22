@@ -26,7 +26,7 @@ Have basic knowledge :
 
 Feel free to contact me via email at [louislaneve57@gmail.com].
 
-![Data Science Gif]([lien_vers_gif](https://media.giphy.com/media/xUOxfoZZhw8HkYWbzG/giphy.gif))
+![Data Science Gif](https://i.gifer.com/KZ1J.gif)
 
 
 
