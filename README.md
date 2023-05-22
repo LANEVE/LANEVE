@@ -13,8 +13,8 @@ I also code in my free time mainly for pleasure!
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
 ## Studies & Jobs
-- Student at the University of Strasbourg: Master's degree in Data Science ![Univ](https://www.numistral.fr/sites/default/files/2018-10/signature_unistra_fond_transparent.png)
-- Intern at Credit Agricole Alsace-Vosges: ![CA](https://upload.wikimedia.org/wikipedia/fr/thumb/a/a6/Cr%C3%A9dit_Agricole.svg/50px-Cr%C3%A9dit_Agricole.svg.png)
+- Student at the University of Strasbourg: Master's degree in Data Science ![Univ](https://www.numistral.fr/sites/default/files/2018-10/signature_unistra_fond_transparent.png){:height="50px" width="50px"}
+- Intern at Credit Agricole Alsace-Vosges: ![CA](https://upload.wikimedia.org/wikipedia/fr/thumb/a/a6/Cr%C3%A9dit_Agricole.svg/50px-Cr%C3%A9dit_Agricole.svg.png){:height="50px" width="50px"}
 
 ## Contact
 
