@@ -10,10 +10,14 @@ I also code in my free time mainly for pleasure!
 
 ## Languages and Tools
 
+Use: 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
+Have basic knowledge :
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+
 ## Studies & Jobs
-- Student at the University of Strasbourg: Master's degree in Data Science ![Univ]([https://www.numistral.fr/sites/default/files/2018-10/signature_unistra_fond_transparent.png](https://www.alsacemonde.org/wp-content/uploads/logo-unistra.jpg))
+- Student at the University of Strasbourg: Master's degree in Data Science ![Univ](https://www.prepa-laurea.com/wp-content/uploads/2023/03/Logo-Universite-de-Strasbourg.png)
 - Intern at Credit Agricole Alsace-Vosges: ![CA](https://upload.wikimedia.org/wikipedia/fr/thumb/a/a6/Cr%C3%A9dit_Agricole.svg/50px-Cr%C3%A9dit_Agricole.svg.png)
 
 ## Contact
